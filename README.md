@@ -1,4 +1,4 @@
-Part One: Exploring the Data
+# **Part One: Exploring the Data**
 
 What is each column use for?
 The Wylie transliteration system is a method for transliterating Tibetan script into the Latin alphabet which is required for the AI model to tranlste the Tibetan column.
